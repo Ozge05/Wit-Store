@@ -1,6 +1,6 @@
 # 🛒 WiStore — React Alışveriş Uygulaması
 
-> ✅ **Bu proje herhangi bir yapay zeka aracı kullanılmadan, tamamen insan tarafından geliştirilmiştir.**
+> ✅ **Bu proje herhangi bir yapay zeka aracı kullanılmadan, tamamen benim kalbim ve beynim kullanılarak geliştirilmiştir.**
 
 WiStore, [Fake Store API](https://fakestoreapi.com/) kullanarak ürünleri kategorilere göre listeleyen, React ile geliştirilmiş bir e-ticaret ön yüz uygulamasıdır.
 
