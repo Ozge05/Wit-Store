@@ -1,8 +1,22 @@
-# Wit-Store
-React + Vite ile geliştirilmiş e-ticaret ön yüz uygulaması. Fake Store API üzerinden kategoriler ve ürünler dinamik olarak listelenir. Axios, useEffect, bileşen mimarisi ve Vitest testleri içerir.
 # 🛒 WiStore — React Alışveriş Uygulaması
 
+> ✅ **Bu proje herhangi bir yapay zeka aracı kullanılmadan, tamamen insan tarafından geliştirilmiştir.**
+
 WiStore, [Fake Store API](https://fakestoreapi.com/) kullanarak ürünleri kategorilere göre listeleyen, React ile geliştirilmiş bir e-ticaret ön yüz uygulamasıdır.
+
+---
+
+## 📸 Ekran Görüntüleri
+
+**Elektronik Kategorisi**
+
+![WiStore Electronics](./screenshot-electronics.png)
+
+![WiStore Electronics - Devamı](./screenshot-electronics-2.png)
+
+**Mücevher Kategorisi**
+
+![WiStore Jewelery](./screenshot-jewelery.png)
 
 ---
 
@@ -14,12 +28,6 @@ WiStore, [Fake Store API](https://fakestoreapi.com/) kullanarak ürünleri kateg
 - **React Hooks** — `useState` ve `useEffect` ile yönetilen state ve yan etkiler
 - **Axios** ile HTTP istekleri
 - **Vitest + Testing Library** ile birim testler
-
----
-
-## 🖥️ Ekran Görüntüsü
-
-> Sol panelde kategoriler, sağ alanda ürün kartları listelenir.
 
 ---
 
@@ -86,5 +94,6 @@ Uygulama [Fake Store API](https://fakestoreapi.com/) kullanmaktadır.
 
 ---
 
-Bu proje eğitim amaçlı geliştirilmiştir.Herhangi bir yapay zeka aracı üretim aşamasında kullanılmamıştır.
-Geliştirirken Kalp,Beyin ve El kullanılmıştır:)
+## 📝 Lisans
+
+Bu proje eğitim amaçlı geliştirilmiştir.
